@@ -4,7 +4,9 @@
 
 <p></p>
 ##Screenshot of App##
+
 ![image](https://github.com/MJaved9/ADDA_Coding/assets/101566706/074fbd75-92b2-494e-afb2-4f21acabff4f)
+
 
 <h3>For Run Localcaly You need to follow the below Steps..</h3>
 
